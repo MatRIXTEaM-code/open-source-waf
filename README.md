@@ -18,7 +18,7 @@
 #
 # ## 📦 Quick Start
 # ```bash
-# git clone https://github.com/YOUR_USERNAME/open-source-waf.git
+# git clone https://github.com/MatRIXTEaM-code/open-source-waf.git
 # cd open-source-waf
 # docker-compose up -d
 # ```
@@ -121,7 +121,7 @@
 #
 # **Who it’s for:** Developers, SREs, Security Engineers, DevOps teams
 #
-# **Launch link:** https://github.com/YOUR_USERNAME/open-source-waf
+# **Launch link:** https://github.com/MatRIXTEaM-code/open-source-waf
 #
 # **Screenshot:** ![preview](https://github.com/MatRIXTEaM-code/open-source-waf/raw/main/logo.png)
 
@@ -137,7 +137,7 @@
 # `security`, `web`, `firewall`, `ml`, `devops`, `observability`, `opensource`, `prometheus`, `grafana`
 #
 # ### GitHub
-# https://github.com/YOUR_USERNAME/open-source-waf
+# https://github.com/MatRIXTEaM-code/open-source-waf
 #
 # ### Screenshot
 # ![screenshot](https://github.com/MatRIXTEaM-code/open-source-waf/raw/main/logo.png)
