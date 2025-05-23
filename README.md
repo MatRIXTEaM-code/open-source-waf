@@ -18,7 +18,7 @@
 #
 # ## 📦 Quick Start
 # ```bash
-# git clone https://github.com/YOUR_USERNAME/open-source-waf.git
+# git clone https://github.com/MatRIXTEaM-code/open-source-waf.git
 # cd open-source-waf
 # docker-compose up -d
 # ```
