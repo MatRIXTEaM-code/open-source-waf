@@ -89,7 +89,7 @@
 # <meta property="og:title" content="Open Source WAF" />
 # <meta property="og:description" content="An ML-powered Web Application Firewall with real-time dashboards and bot protection." />
 # <meta property="og:image" content="https://yourdomain.com/logo.png" />
-# <meta property="og:url" content="https://github.com/YOUR_USERNAME/open-source-waf" />
+# <meta property="og:url" content="https://github.com/MatRIXTEaM-code/open-source-waf" />
 # <meta name="twitter:card" content="summary_large_image" />
 # ```
 
@@ -123,7 +123,7 @@
 #
 # **Launch link:** https://github.com/YOUR_USERNAME/open-source-waf
 #
-# **Screenshot:** ![preview](https://github.com/YOUR_USERNAME/open-source-waf/raw/main/logo.png)
+# **Screenshot:** ![preview](https://github.com/MatRIXTEaM-code/open-source-waf/raw/main/logo.png)
 
 # Submit to directories like `awesome-selfhosted`, `Product Hunt`, or `DevPost`:
 #
@@ -140,6 +140,6 @@
 # https://github.com/YOUR_USERNAME/open-source-waf
 #
 # ### Screenshot
-# ![screenshot](https://github.com/YOUR_USERNAME/open-source-waf/raw/main/logo.png)
+# ![screenshot](https://github.com/MatRIXTEaM-code/open-source-waf/raw/main/logo.png)
 
 # # # [End of README and launch content]
