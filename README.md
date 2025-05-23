@@ -121,7 +121,7 @@
 #
 # **Who it’s for:** Developers, SREs, Security Engineers, DevOps teams
 #
-# **Launch link:** https://github.com/YOUR_USERNAME/open-source-waf
+# **Launch link:** https://github.com/MatRIXTEaM-code/open-source-waf
 #
 # **Screenshot:** ![preview](https://github.com/MatRIXTEaM-code/open-source-waf/raw/main/logo.png)
 
