@@ -137,7 +137,7 @@
 # `security`, `web`, `firewall`, `ml`, `devops`, `observability`, `opensource`, `prometheus`, `grafana`
 #
 # ### GitHub
-# https://github.com/YOUR_USERNAME/open-source-waf
+# https://github.com/MatRIXTEaM-code/open-source-waf
 #
 # ### Screenshot
 # ![screenshot](https://github.com/MatRIXTEaM-code/open-source-waf/raw/main/logo.png)
